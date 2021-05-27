@@ -92,3 +92,8 @@ GTAGS
 *.orig
 *~
 \#*#
+
+# Enclustra buildscripts related files
+postfetch.sh
+postbuild.sh
+*scr
